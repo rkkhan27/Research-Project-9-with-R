@@ -8,6 +8,7 @@ The Moving to Opportunity (MTO) demonstration was designed to test whether offer
 (that cover some or all of rental costs) to families living in public housing in high-poverty neighborhoods
 could lead to better experiences and outcomes by providing financial assistance to move to higher income
 neighborhoods.
+
 Between 1994 and 1998 the U.S. Department of Housing and Urban Development enrolled 4,604 low-income
 households from public housing projects (governement owned housing, usually large apartment blocks) in
 Baltimore, Boston, Chicago, Los Angeles, and New York in MTO, randomly assigning enrolled families in
